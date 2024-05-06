@@ -34,3 +34,25 @@ Ensure that Python 3.x is installed on your system. You will need Jupyter Notebo
 
 ```bash
 pip install notebook pandas matplotlib seaborn scikit-learn geopandas xgboost imblearn
+
+Instructions
+Clone this repository to your local machine.
+Navigate to the repository directory.
+Make sure import_data_final.py is in the same directory as the Jupyter notebooks.
+Unzip the data files inside the /data directory if they are not already unzipped.
+Open the Jupyter Notebook environment:
+bash
+Copy code
+jupyter notebook
+Run IS597MLC_Exploratory_Data_Analysis_Final_Project_Das_Akash.ipynb first to perform the exploratory data analysis.
+After completing the EDA, proceed with IS597-MLC-Machine_Learning_Pipeline_Final_Project_Das_Akash.ipynb to apply machine learning models.
+Reproducing Results
+To ensure reproducibility:
+
+Follow the exact sequence of notebooks as mentioned.
+Use the provided data preprocessing scripts and notebooks without modifications.
+GitHub Repo
+For further details on the dataset and notebooks, visit the GitHub Repository.
+
+Conclusion
+This project aims to enhance understanding and operational strategies within the Brazilian e-commerce sector by analyzing customer satisfaction and logistic efficiency using advanced data analytics and machine learning techniques.
