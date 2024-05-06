@@ -41,7 +41,7 @@ This dataset offers a detailed account of 100,000 orders from the Olist Store, r
 - **geolocation_city**: Name of the city according to geolocation.
 - **geolocation_state**: State abbreviation according to geolocation.
 
-![Dataset Overview](dataset_overview.png)
+![Dataset Overview](MLC project.png)
 
 ## Instructions
 
